@@ -1,0 +1,24 @@
+{
+  "name": "horilla_docs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "vite-plugin-json5": "^1.1.4",
+    "vitepress": "^1.5.0"
+  },
+  "dependencies": {
+    "@iconify/iconify": "^3.1.1",
+    "jquery": "^3.7.1",
+    "json5": "^2.2.3",
+    "vitepress-versioning-plugin": "^1.2.1"
+  }
+}
