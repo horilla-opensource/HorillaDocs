@@ -23,7 +23,6 @@ const filterNavItems = () => {
         path.includes(element.activeMatch)
       )
     })
-    console.log(filterdNav.value)
   }
 }
 
@@ -31,12 +30,29 @@ const filterNavItems = () => {
 filterNavItems()
 
 // Watch for route changes and re-filter navigation items
+
+// Function to update the version display
+const updateVersionDisplay = () => {
+  const versionMatch = route.path.match(/\/(functional|technical)\/(v\d+\.\d+)/);
+  const version = versionMatch ? versionMatch[2] : null;
+
+  if (version) {
+    const versionElement = document.querySelector('nav [id=activeVersion]');
+    if (versionElement) {
+      versionElement.innerHTML = version;
+    }
+  }
+};
+
+// Watch for route changes and update navigation and version display
 watch(
   () => route.path,
   () => {
-    filterNavItems()
+    filterNavItems();
+    updateVersionDisplay();
   }
-)
+);
+
 </script>
 
 <template>

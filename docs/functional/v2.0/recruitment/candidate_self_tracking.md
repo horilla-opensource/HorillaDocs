@@ -1,4 +1,4 @@
-**Candidate self tracking documentation**
+# Candidate self tracking
 
 The **Candidate Self-Tracking** feature allows candidates to monitor their recruitment progress. This includes checking their status (e.g., hired, rejected, or pending), viewing scheduled interviews, uploading required documents, and communicating with recruiters or managers through notes.
 
@@ -19,7 +19,7 @@ Admins need to activate the Candidate Self-Tracking feature in the system settin
 ## **Overview of the Candidate Self-Tracking Page**
 
 The Candidate Self-Tracking page provides a clear overview of recruitment progress through various sections:
-![alt text](media/image.png)
+![alt text](media/image-30.png)
 
 ##### **1\. Candidate Information Card**
 
@@ -50,7 +50,7 @@ The **Documents** card (marked as 3 in the image) enables candidates to:
 -   Upload the required documents for review.
 
 Admins and managers can view uploaded documents from the candidate's profile and either approve, reject or delete them.
-![alt text](media/image-1.png)
+![alt text](media/image-31.png)
 
 -   Candidates can see the document status:
     -   **Uploaded**
@@ -71,7 +71,7 @@ Additional functionality includes:
 -   **Visibility Control**: Notes added by managers are hidden from candidates by default. To make them visible, managers can enable the **Candidates Can View** option marked as 1 in the below image.
 -   **Notifications**: When a candidate adds a note, recruitment managers and stage managers receive notifications.
 -   **Note Management**: Candidates can delete their own notes but cannot remove notes added by others.
-![alt text](media/image-2.png)
+![alt text](media/image-32.png)
 ---
 
 By enabling and utilizing the Candidate Self-Tracking feature, admins and managers can ensure transparency in the recruitment process and foster seamless communication with candidates.

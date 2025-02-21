@@ -1,6 +1,6 @@
 import DefaultTheme from 'vitepress/theme'
 import './docs-theme.css'
-// import './script.js'
+import './script.js'
 
 
 // import VPCarbonAds from './components/VPCarbonAds.vue'

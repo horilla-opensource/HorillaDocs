@@ -1,6 +1,57 @@
 [
+  {text:"Dashboard", link:"/functional/v2.0/dashboard"},
   {
+    collapsed: false,
     text: "Recuritment",
-    link: "/functional/v2.0/recruitment/candidate_self_tracking",
-  }
+    items: [
+      {text:"Pipeline & Kanban", link:"/functional/v2.0/recruitment/pipeline"},
+      {text:"Resume Shortlisting", link:"/functional/v2.0/recruitment/resume_shortlisting"},
+      {text:"Candidates", link:"/functional/v2.0/recruitment/candidates"},
+      {text:"Recruitment", link:"/functional/v2.0/recruitment/recruitment"},
+      {text:"Stages", link:"/functional/v2.0/recruitment/stages"},
+      {text:"Interview", link:"/functional/v2.0/recruitment/interview"},
+      {text:"Survey & Open Jobs", link:"/functional/v2.0/recruitment/survey"},
+      {text:"Skill Zone", link:"/functional/v2.0/recruitment/skill_zone"},
+      {
+        text: "Candidate Self Tracking", link: "/functional/v2.0/recruitment/candidate_self_tracking"
+      }
+    ]
+  },
+  { text: "Onboarding", link: "/functional/v2.0/onboarding/onboarding"},
+  {
+    collapsed: false,    
+    text: "Employee",
+    items: [
+      {text:"Profile", link:"/functional/v2.0/employee/profile"},
+      {text:"Employees", link:"/functional/v2.0/employee/employee"},
+      {text:"Document Request", link:"/functional/v2.0/employee/document_request"},
+      {text:"Shift Request", link:"/functional/v2.0/employee/shift_request"},
+      {text:"Work Type Request", link:"/functional/v2.0/employee/work_type_request"},
+      {text:"Rotating Shift Assign", link:"/functional/v2.0/employee/rotating_shift_assign"},
+      {text:"Rotating Work Type Assign", link:"/functional/v2.0/employee/rotating_work_type_assign"},
+      {text:"Disciplinary Action", link:"/functional/v2.0/employee/disciplinary_action"},
+      {text:"Policies", link:"/functional/v2.0/employee/policies"},
+      {text:"Organization Chart", link:"/functional/v2.0/employee/organization_chart"},
+    ]
+  },
+  {
+    collapsed: false,
+    text: "Payroll",
+    items: [
+      {text:"Dashboard", link:"/functional/v2.0/payroll/dashboard"},
+      {text:"Contract", link:"/functional/v2.0/payroll/contract"},
+      {text:"Allowance", link:"/functional/v2.0/payroll/allowance"},
+      {text:"Deduction", link:"/functional/v2.0/payroll/deduction"},
+      {text:"Payslip", link:"/functional/v2.0/payroll/payslip"},
+      {text:"Loan / Advanced Salary", link:"/functional/v2.0/payroll/loan_advanced_salary"},
+      {text:"Reimbursement", link:"/functional/v2.0/payroll/reimbursement"},
+      {text:"Encashments", link:"/functional/v2.0/payroll/encashment"},
+      {text:"Federal Tax", link:"/functional/v2.0/payroll/federal_tax"},
+    ]
+  },
+  { text: "Attendance", link: "/functional/v2.0/attendance/attendance"},
+  { text: "Leave", link: "/functional/v2.0/leave/leave"},
+  { text: "Performance", link: "/functional/v2.0/performance/pms"},
+  { text: "Asset", link: "/functional/v2.0/asset/asset"},
+  { text: "Offboarding", link: "/functional/v2.0/offboarding/offboarding"},
 ]
