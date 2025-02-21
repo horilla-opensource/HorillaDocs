@@ -85,6 +85,7 @@
     },
     {
         text: 'Integerations',
+        collapsed: true,
         items: [
             {
                 text: 'AWS S3 Integration', link: '/technical/v2.0/doc/integrations/s3bucket'
@@ -99,6 +100,7 @@
     },
     {
         text: 'Deployment',
+        collapsed: true,
         items: [
             {
                 text: 'Ubuntu',
