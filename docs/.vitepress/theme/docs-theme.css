@@ -1,11 +1,12 @@
 .git-icon {
-  content: url('https://github.githubassets.com/assets/pinned-octocat-093da3e6fa40.svg');
+  content: url("https://github.githubassets.com/assets/pinned-octocat-093da3e6fa40.svg");
   height: 26px;
   display: inline-block;
   vertical-align: middle;
-
 }
-
+:root {
+  --vp-c-brand-1: #e54f38;
+}
 .responsive-iframe {
   position: relative !important;
   width: 100% !important;
@@ -23,42 +24,42 @@
   height: 100% !important;
 }
 
-.VPSidebarItem .items .level-1{
+.VPSidebarItem .items .level-1 {
   padding-left: 10px;
 }
 
 /* Global scroll behavior for smooth scrolling */
 html {
-  scroll-behavior: smooth;  /* Enables smooth scrolling across the page */
+  scroll-behavior: smooth; /* Enables smooth scrolling across the page */
 }
 
 /* Customizing scrollbar for Webkit browsers (Chrome, Safari, Edge) */
 html::-webkit-scrollbar {
-  width: 12px;  /* Width of the scrollbar */
-  height: 12px;  /* Height of the scrollbar for horizontal scroll */
+  width: 12px; /* Width of the scrollbar */
+  height: 12px; /* Height of the scrollbar for horizontal scroll */
 }
 
 html::-webkit-scrollbar-track {
-  border-radius: 20px;  /* Rounded corners of the track */
+  border-radius: 20px; /* Rounded corners of the track */
 }
 
 html::-webkit-scrollbar-thumb {
-  border-radius: 10px;  /* Rounded corners of the thumb */
-  transition: background-color 0.3s ease;  /* Smooth transition on hover */
+  border-radius: 10px; /* Rounded corners of the thumb */
+  transition: background-color 0.3s ease; /* Smooth transition on hover */
 }
 
 html::-webkit-scrollbar-thumb:hover {
-  background-color: #555;  /* Thumb color on hover */
+  background-color: #555; /* Thumb color on hover */
 }
 
 /* Customizing scrollbar for Firefox */
 html {
-  scrollbar-width: thin;  /* Makes the scrollbar thin */
+  scrollbar-width: thin; /* Makes the scrollbar thin */
 }
 
 /* Webkit browsers (Chrome, Safari, Edge) specific styles for .VPSidebar */
 .VPSidebar::-webkit-scrollbar {
-  width: 12px;  /* Width of the scrollbar */
+  width: 12px; /* Width of the scrollbar */
 }
 
 .VPSidebar::-webkit-scrollbar-track {
@@ -71,12 +72,12 @@ html {
 }
 
 .VPSidebar::-webkit-scrollbar-thumb:hover {
-  background-color: #555;  /* Thumb color on hover */
+  background-color: #555; /* Thumb color on hover */
 }
 
 /* Firefox specific styles for .VPSidebar */
 .VPSidebar {
-  scrollbar-width: thin;  /* Thin scrollbar */
+  scrollbar-width: thin; /* Thin scrollbar */
 }
 
 @media (prefers-color-scheme: dark) {
