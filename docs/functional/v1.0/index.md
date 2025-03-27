@@ -34,6 +34,7 @@ Horilla is a comprehensive Human Resource Management System (HRMS) software solu
     height: 100%;
   }
 </style>
+
 ---
 
 ## Open-Source Foundation
@@ -43,8 +44,6 @@ Horilla is built as an open-source solution, licensed under LGPL-2.1. This licen
 ## Comprehensive Modules
 
 Horilla distinguishes itself through a rich set of modules, collectively forming a complete HRMS suite:
-
-
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 <div style="border: 1px solid #e8e8e8; border-radius: 8px; padding: 0px 20px 20px 20px; width: 100%;">
@@ -90,6 +89,7 @@ Horilla distinguishes itself through a rich set of modules, collectively forming
 </div>
 
 ## Tailored Adaptability
+
 Horilla's status as a complete HRMS software extends its capability to be seamlessly tailored to specific organizational needs. Its versatility ensures suitability across diverse industries and organizational structures, making it a compelling choice for those seeking an end-to-end HR management solution.
 
 In essence, Horilla is not merely an HRMS; it is a complete, open-source, and adaptive software designed to empower organizations to manage their workforce with efficiency and precision. The collaborative community-driven development model, combined with its extensive range of modules, positions Horilla as a comprehensive solution for modern HR challenges.
