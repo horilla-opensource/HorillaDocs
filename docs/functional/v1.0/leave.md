@@ -2,6 +2,10 @@
 
 Leave management is a critical module that tracks employee time off, including sick, vacation, and other types of leave. The leave management software module enables managers to manage and approve employee leave requests, track employee attendance, and monitor leave balances. This module automates leave-related tasks, including leave requests, approvals, and notifications, ensuring that organizations comply with their leave policies and regulations. Automating leave management, Improves efficiency, reduces paperwork, and saves time and money for organizations.
 
+<div class="responsive-iframe">
+    <iframe width="840" height="500" src="https://www.youtube.com/embed/yjvqCVE0uPA" title="How to Manage Leave in Horilla | Leave Management System in Horilla #opensource" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ## **Dashboard**
 
 - A leave dashboard serves as a control center for viewing important leave information in one spot.

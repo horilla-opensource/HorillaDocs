@@ -39,7 +39,7 @@ import {
   version,
   watch,
   watchEffect
-} from "./chunk-L2JNJ22P.js";
+} from "./chunk-2V3V7MYD.js";
 import "./chunk-BUSYA2B4.js";
 
 // node_modules/@vueuse/shared/index.mjs

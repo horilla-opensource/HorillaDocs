@@ -6,6 +6,10 @@ outline: [2, 3]
 
 Asset Management System is a key feature of our HRMS that enables employees to request and manage assets, such as computers or equipment, needed for their work. The system categorizes assets by type and tracks requests until they are approved and made available to the employee. With easy asset categorization, employees can quickly find the resources they need, and administrators can manage and allocate resources more efficiently. Overall, our Asset Management System is a powerful tool for organizations to manage and track assets in a streamlined and effective manner.
 
+<div class="responsive-iframe">   
+    <iframe width="1006" height="566" src="https://www.youtube.com/embed/QwrfCg40qZQ" title="How to Manage Employee Assets in Horilla HRMS | Free HR Software | An Overview of Assets Management" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ## Dashboard
 
 ![alt text](asset/media/image.png)

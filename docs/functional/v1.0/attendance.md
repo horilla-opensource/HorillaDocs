@@ -1,6 +1,9 @@
 # Attendance
 
 The attendance software module is the main module to track and manage employee attendance.By utilizing the attendance module, employees can seamlessly mark their attendance, incorporating the secure and accurate method of biometric attendance integration alongside the check-in/out system. The module tracks overtime and finds late comes and early outs and also allows for verification of mistake attendances like forgetting to checkout or exceeding attendance validation conditions defined in the settings and so on.
+<div class="responsive-iframe">
+    <iframe width="840" height="500" src="https://www.youtube.com/embed/KuumiMA_1xU" title="How to Manage Attendance in Horilla | Attendance Management System in Horilla #opensource" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 ## **Check-In Check-Out**
 

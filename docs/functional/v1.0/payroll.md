@@ -2,10 +2,14 @@
 outline: [2, 3]
 ---
 
-# **HRMS Module: Payroll Dashboard Management**
+# Payroll
 
-### **Overview**
+Horilla HRMS Software offers a comprehensive and efficient payroll management system within its suite of features. The payroll software module in Horilla enables businesses to effectively manage employee allowances, deductions, taxes, and the generation of accurate payslips. With Horilla’s payroll software, you can streamline your payroll processes and ensure timely and accurate salary calculations for your employees.
+<div class="responsive-iframe">
+    <iframe width="840" height="500" src="https://www.youtube.com/embed/NOI5UGXeAFc" title="How to Manage Payroll in Horilla HRMS Software? | Open Source Payroll Management Software" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
+## Dashboard Overview
 The **Payroll Dashboard** within the HRMS provides HR professionals with a comprehensive overview of payroll activities. The dashboard displays key metrics related to payslip processing, enabling users to monitor and manage payroll status effectively.
 
 ## **Accessing the Payroll Dashboard**

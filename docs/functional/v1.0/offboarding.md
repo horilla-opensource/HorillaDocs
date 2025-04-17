@@ -3,6 +3,10 @@
 Offboarding is the process of managing an employee’s departure from a company. It involves various tasks and procedures aimed at ensuring a smooth transition for both the departing employee and the organization. In the context of HR software, offboarding features facilitate and streamline these tasks.
 
 Horilla helps organizations manage departures more effectively, minimize disruptions, and protect the company’s interests while also ensuring a positive experience for departing employees.
+<div class="responsive-iframe">   
+    <iframe   iframe width="1128" height="634" src="https://www.youtube.com/embed/YaSJ08WAhOI" title="How to Manage Employee Offboarding in Horilla HRMS | Free HR Software | Horilla Offboarding Software" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 
 ## **Exit Process View**
 

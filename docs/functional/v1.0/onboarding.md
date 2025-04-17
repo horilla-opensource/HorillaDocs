@@ -1,6 +1,10 @@
-# **Onboarding**
+# Onboarding
 
-Onboarding in HRMS means helping new employees fit into a company. It includes steps like pre-boarding, where they get ready before starting, orientation to learn about the company, compliance to follow rules, integration to join the team smoothly, and follow-up to make sure they're settling in well. Onboarding is super important because it helps new employees feel comfortable, understand how things work, and feel like they're part of the team. It's like giving them a warm welcome and helping them get ready to do their best work for the company. Good onboarding sets the stage for a great work experience\!
+Onboarding in HRMS means helping new employees fit into a company. It includes steps like pre-boarding, where they get ready before starting, orientation to learn about the company, compliance to follow rules, integration to join the team smoothly, and follow-up to make sure they’re settling in well. Onboarding is super important because it helps new employees feel comfortable, understand how things work, and feel like they’re part of the team. It’s like giving them a warm welcome and helping them get ready to do their best work for the company. Good onboarding sets the stage for a great work experience!
+<div class="responsive-iframe">
+    <iframe width="840" height="500" src="https://www.youtube.com/embed/nIP3_0dQsCw" title="How Does Employee Onboarding Process Works in Horilla HR Software? #opensource" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 
 ## **Onboarding View**
 

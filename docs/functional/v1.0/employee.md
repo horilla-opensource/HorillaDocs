@@ -1,5 +1,15 @@
 # Employee
 
+The Employee Management Software module allows HR professionals to manage the employee database which includes employee’s personal, bank, and work details.
+
+<div class="responsive-iframe">
+    <iframe width="840" height="500" src="https://www.youtube.com/embed/0lowB3awogs" title="How to Manage Employee Database in Horilla HR Software? #opensource" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+---
+
+# Employee
+
 ![alt text](employee/media/image-14.png)
 
 By clicking the Employee under the main tab Employees marked as 1 You can view the employee directory or the employee database view. There are Mainly two views available for now: card and list. From here you can view all the details of the employee’s or create an employee from here by clicking the create button.

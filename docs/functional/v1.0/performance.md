@@ -2,6 +2,10 @@
 
 A Performance Management System (PMS) within Horilla software is a comprehensive tool designed to streamline and optimize the process of managing employee performance. By centralizing Objectives, performance evaluation, feedback, and development planning. Horilla helps HR teams to efficiently track progress, provide timely feedback, and foster a culture of continuous improvement.
 
+<div class="responsive-iframe">
+    <iframe width="840" height="500" src="https://www.youtube.com/embed/6OXNrZhFkeY" title="What is Performance Management System Software? | Performance Management System in Horilla" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ## **Dashboard**
 
 The Dashboard provides an overview of performance metrics, including Objectives, Feedback, and Key Results. It displays data through graphs and summary counts.
