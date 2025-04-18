@@ -1,5 +1,5 @@
 # Recruitment
-The recruitment module allows HR professionals to create and manage job postings, receive and review resumes, manage interviews, and track candidate progress throughout the hiring process.
+The [recruitment module](https://www.horilla.com/features/recruitment/) allows HR professionals to create and manage job postings, receive and review resumes, manage interviews, and track candidate progress throughout the hiring process.
 <div class="responsive-iframe">
   <iframe width="840" height="500" src="https://www.youtube.com/embed/RXdB7fnbbV0" title="How Does Recruitment Process Works in Horilla HR Software? #opensource" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>

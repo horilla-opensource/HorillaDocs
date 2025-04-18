@@ -8,7 +8,7 @@ Onboarding in HRMS means helping new employees fit into a company. It includes s
 
 ## **Onboarding View**
 
-The Onboarding View is a vital part of onboarding software, helping recruiters manage the process for new hires. It organizes candidates based on their onboarding stage and lists all tasks required during the process. Recruiters track each candidate's progress and ensure tasks are completed on time. They can assign tasks to team members, ensuring smooth progress. This view centralizes onboarding management, keeping recruiters organized and efficient. It ensures new hires receive a seamless onboarding experience, helping them integrate into the organization smoothly. With the Onboarding View, recruiters can efficiently guide new hires through the process, ensuring a positive start to their journey with the company.
+The Onboarding View is a vital part of [onboarding module](https://www.horilla.com/features/onboarding/), helping recruiters manage the process for new hires. It organizes candidates based on their onboarding stage and lists all tasks required during the process. Recruiters track each candidate's progress and ensure tasks are completed on time. They can assign tasks to team members, ensuring smooth progress. This view centralizes onboarding management, keeping recruiters organized and efficient. It ensures new hires receive a seamless onboarding experience, helping them integrate into the organization smoothly. With the Onboarding View, recruiters can efficiently guide new hires through the process, ensuring a positive start to their journey with the company.
 
 ![alt text](onboarding/image.png)
 
@@ -39,7 +39,7 @@ The candidate view in the onboarding system shows all hired candidates and their
 
 ### **Candidate Create Button**
 
-The candidate create button in the candidate view (marked as 2 in image) enables HR personnel to generate a candidate profile within the onboarding module. This feature is handy when the candidate's recruitment details aren't already in the recruitment software. With this button, HR personnel can initiate the onboarding process for the candidate directly from the onboarding module. It simplifies the process of adding new candidates to the system and ensures that the onboarding process can begin smoothly without delays. This tool helps HR teams efficiently manage candidate information and kick-start the onboarding journey for new hires with ease.
+The candidate create button in the candidate view (marked as 2 in image) enables HR personnel to generate a candidate profile within the onboarding module. This feature is handy when the candidate's recruitment details aren't already in the [recruitment module](https://www.horilla.com/features/recruitment/). With this button, HR personnel can initiate the onboarding process for the candidate directly from the onboarding module. It simplifies the process of adding new candidates to the system and ensures that the onboarding process can begin smoothly without delays. This tool helps HR teams efficiently manage candidate information and kick-start the onboarding journey for new hires with ease.
 
 ![alt text](onboarding/image-6.png)
 

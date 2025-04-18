@@ -1,6 +1,6 @@
 # **Offboarding**
 
-Offboarding is the process of managing an employee’s departure from a company. It involves various tasks and procedures aimed at ensuring a smooth transition for both the departing employee and the organization. In the context of HR software, offboarding features facilitate and streamline these tasks.
+The [offboarding](https://www.horilla.com/features/offboarding/) is the process of managing an employee’s departure from a company. It involves various tasks and procedures aimed at ensuring a smooth transition for both the departing employee and the organization. In the context of HR software, offboarding features facilitate and streamline these tasks.
 
 Horilla helps organizations manage departures more effectively, minimize disruptions, and protect the company’s interests while also ensuring a positive experience for departing employees.
 <div class="responsive-iframe">   

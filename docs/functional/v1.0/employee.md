@@ -1,6 +1,6 @@
 # Employee
 
-The Employee Management Software module allows HR professionals to manage the employee database which includes employee’s personal, bank, and work details.
+The [employee module](https://www.horilla.com/features/employee/) allows HR professionals to manage the employee database which includes employee’s personal, bank, and work details.
 
 <div class="responsive-iframe">
     <iframe width="840" height="500" src="https://www.youtube.com/embed/0lowB3awogs" title="How to Manage Employee Database in Horilla HR Software? #opensource" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -8,7 +8,7 @@ Leave management is a critical module that tracks employee time off, including s
 
 ## **Dashboard**
 
-- A leave dashboard serves as a control center for viewing important leave information in one spot.
+- A [leave module](https://www.horilla.com/features/leave/) dashboard serves as a control center for viewing important leave information in one spot.
 - Presents leave statuses graphically using visual formats like charts or graphs.
 - Displays information such as:
   - Approved leave

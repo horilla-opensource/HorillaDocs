@@ -19,6 +19,11 @@ const funcSidebarv1 = json5.parse(fs.readFileSync(funcSidebarPathv1, "utf8"));
 // Export the VitePress configuration
 export default defineConfig({
   cleanUrls: true,
+  head: [
+    ['link', { rel: 'icon', type: 'image/png', href: '/favicon.png' }]
+  ],
+
+
   vite: {
     resolve: {
       alias: [

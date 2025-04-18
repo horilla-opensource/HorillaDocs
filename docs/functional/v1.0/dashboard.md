@@ -1,8 +1,12 @@
 # Dashboard
 
-![alt text](media/image.png)
+Horilla HRMS redefines the HR management experience through its innovative Dashboard, strategically organized into three distinct sections, each catering to specific functionalities. 
+<div class="responsive-iframe">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/TB4BOS8F_TQ?si=BVwjXoniwxy-NRZs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+The user-friendly interface seamlessly integrates top and side charts, sticky elements, and rearrangeable canvas cards, offering a dynamic and customizable platform for efficient workforce management.
 
-Horilla HRMS redefines the HR management experience through its innovative Dashboard, strategically organized into three distinct sections, each catering to specific functionalities. The user-friendly interface seamlessly integrates top and side charts, sticky elements, and rearrangeable canvas cards, offering a dynamic and customizable platform for efficient workforce management.
+![alt text](media/image.png)
 
 ## Top and Side Charts
 At the forefront of the Horilla Dashboard are top and side charts, presenting a comprehensive overview of key metrics and performance indicators. The top charts deliver instant insights into critical HR elements, such as recruitment analytics, monthly worked hours, and leave allocation statistics. Meanwhile, the side charts offer easy navigation and quick access to various modules, ensuring that users can swiftly delve into specific aspects of HR management.

@@ -16,7 +16,7 @@ Image.1
 
 ## **Objectives**
 
-The objectives of a Performance Management System (PMS) encompass several key goals aimed at enhancing employee performance and aligning it with organizational objectives.
+The objectives of a [Performance Management System](https://www.horilla.com/features/pms/) (PMS) encompass several key goals aimed at enhancing employee performance and aligning it with organizational objectives.
 
 ![alt text](performance/image-1.png)
 Image.2

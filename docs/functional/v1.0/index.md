@@ -47,42 +47,42 @@ Horilla distinguishes itself through a rich set of modules, collectively forming
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 <div style="border: 1px solid #e8e8e8; border-radius: 8px; padding: 0px 20px 20px 20px; width: 100%;">
-  <h4>Recruitment</h4>
+  <h4><a href="/functional/v1.0/recruitment">Recruitment</a></h4>
   <p>Streamline the entire recruitment process, from job posting to candidate evaluation, for an efficient and effective hiring journey.</p>
 </div>
 
 <div style="border: 1px solid #e8e8e8; border-radius: 8px; padding: 0px 20px 20px 20px; width: 100%;">
-  <h4>Onboarding</h4>
+  <h4><a href="/functional/v1.0/onboarding">Onboarding</a></h4>
   <p>Facilitate seamless onboarding experiences for new hires, guiding them from recruitment to full integration within the organization.</p>
 </div>
 
 <div style="border: 1px solid #e8e8e8; border-radius: 8px; padding: 0px 20px 20px 20px; width: 100%;">
-  <h4>Employee</h4>
+  <h4><a href="/functional/v1.0/employee">Employee</a></h4>
   <p>Centralize and manage employee data, providing HR professionals with a holistic view of the workforce to support strategic decision-making.</p>
 </div>
 
 <div style="border: 1px solid #e8e8e8; border-radius: 8px; padding: 0px 20px 20px 20px; width: 100%;">
-  <h4>Attendance</h4>
+  <h4><a href="/functional/v1.0/attendance">Attendance</a></h4>
   <p>Track and monitor employee attendance, with insights into work hours, patterns, and advanced biometric integration options.</p>
 </div>
 
 <div style="border: 1px solid #e8e8e8; border-radius: 8px; padding: 0px 20px 20px 20px; width: 100%;">
-  <h4>Leave</h4>
+  <h4><a href="/functional/v1.0/leave">Leave</a></h4>
   <p>Optimize leave management through a user-friendly interface for requesting, approving, and tracking leaves, ensuring policy compliance.</p>
 </div>
 
 <div style="border: 1px solid #e8e8e8; border-radius: 8px; padding: 0px 20px 20px 20px; width: 100%;">
-  <h4>Payroll</h4>
+  <h4><a href="/functional/v1.0/payroll">Payroll</a></h4>
   <p>Streamline payroll processing, managing compensation, tax deductions, and regulatory compliance with accuracy.</p>
 </div>
 
 <div style="border: 1px solid #e8e8e8; border-radius: 8px; padding: 0px 20px 20px 20px; width: 100%;">
-  <h4>Asset</h4>
+  <h4><a href="/functional/v1.0/asset">Asset</a></h4>
   <p>Manage physical assets efficiently, handling asset requests, allocations, and tracking for effective resource utilization.</p>
 </div>
 
 <div style="border: 1px solid #e8e8e8; border-radius: 8px; padding: 0px 20px 20px 20px; width: 100%;">
-  <h4>Performance</h4>
+  <h4><a href="/functional/v1.0/performance">Performance</a></h4>
   <p>Elevate employee performance with goal setting, feedback mechanisms, and strategic development planning.</p>
 </div>
 

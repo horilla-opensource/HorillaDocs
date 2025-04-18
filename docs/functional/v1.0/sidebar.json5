@@ -1,4 +1,5 @@
 [
+  { text: "Introduction", link: "/functional/v1.0/", items: [""] },
   { text: "Dashboard", link: "/functional/v1.0/dashboard", items: [""] },
   {
     collapsed: false,
@@ -89,4 +90,5 @@
   { text: "Performance", link: "/functional/v1.0/performance/", items: [""] },
   { text: "Asset", link: "/functional/v1.0/asset/", items: [""] },
   { text: "Offboarding", link: "/functional/v1.0/offboarding/", items: [""] },
+  { text: "Help Desk", link: "/functional/v1.0/helpdesk/", items: [""] },
 ]
