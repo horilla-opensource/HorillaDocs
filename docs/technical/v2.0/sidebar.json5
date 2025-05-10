@@ -14,10 +14,13 @@
                 ]
             },
             {
-                text: "Installation using shell", link: "/technical/v2.0/installation_using_shell"
+                text: "Installation using shell", link: "/technical/v2.0/installation-using-shell"
             },
             {
                 text: 'Databases', link: "/technical/v2.0/database"
+            },
+            {
+                text: 'Fail2Ban', link: "/technical/v2.0/fail2ban"
             },
         ]
     },
@@ -53,13 +56,13 @@
                 ]
             },
             {
-                text: 'Decorators', link: '/technical/v2.0/doc/generic/decorators/general_decorators',
+                text: 'Decorators', link: '/technical/v2.0/doc/generic/decorators/general-decorators',
                 items: [
                     {
-                        text: "General Decorators", link: '/technical/v2.0/doc/generic/decorators/general_decorators'
+                        text: "General Decorators", link: '/technical/v2.0/doc/generic/decorators/general-decorators'
                     },
                     {
-                        text: "CBV Decorators", link: '/technical/v2.0/doc/generic/decorators/cbv_decorators'
+                        text: "CBV Decorators", link: '/technical/v2.0/doc/generic/decorators/cbv-decorators'
                     },
                 ]
             },
@@ -107,11 +110,11 @@
                 items: [
                     {
                         text: "Service File",
-                        link: '/technical/v2.0/doc/deployment/ubuntu_service_file'
+                        link: '/technical/v2.0/doc/deployment/ubuntu-service-file'
                     },
                     {
                         text: "Gunicorn and Nginx",
-                        link: '/technical/v2.0/doc/deployment/nginx_gunicorn'
+                        link: '/technical/v2.0/doc/deployment/nginx-gunicorn'
                     }
                 ]
             },
