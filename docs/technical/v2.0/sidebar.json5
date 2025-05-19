@@ -99,6 +99,9 @@
             {
                 text: 'Whatsapp', link: '/technical/v2.0/doc/integrations/whatsapp/whatsapp'
             },
+            {
+                text: 'LDAP', link: '/technical/v2.0/doc/integrations/ldap/ldap'
+            },
         ]
     },
     {
