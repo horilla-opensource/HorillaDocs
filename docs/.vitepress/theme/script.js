@@ -1,3 +1,4 @@
+
 import jQuery from "jquery";
 
 var $ = jQuery;
@@ -13,5 +14,7 @@ const updateVersionDisplay = (path) => {
 };
 
 setTimeout(() => {
-    updateVersionDisplay(window.location.pathname)
+    if (typeof window !== 'undefined') {
+      updateVersionDisplay(window.location.pathname);
+    }
 }, 150);
